@@ -14,6 +14,8 @@ Baseline project for Node.js with some best practices.
 6. Wrap the body at 72 characters
 7. Use the body to explain what and why vs. how
 
+source: [https://chris.beams.io/posts/git-commit/]
+
 ## Semantic Git Messages
 
 1. feat: (new feature for the user, not a new feature for build script)
@@ -23,6 +25,8 @@ Baseline project for Node.js with some best practices.
 5. refactor: (refactoring production code, eg. renaming a variable)
 6. test: (adding missing tests, refactoring tests; no production code change)
 7. chore: (updating grunt tasks etc; no production code change)
+
+source: [https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716]
 
 ## Message Template
 
@@ -55,3 +59,5 @@ like this:
 Resolves: #123
 See also: #456, #789
 ```
+
+source: [https://hmistry.github.io/software/2018/02/18/writing-a-git-commit-message.html]
