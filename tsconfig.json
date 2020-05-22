@@ -1,0 +1,14 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+      "module": "ESNEXT",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true
+  },
+  "exclude": [
+      "node_modules",
+      "**/*.spec.ts"
+  ]
+}
