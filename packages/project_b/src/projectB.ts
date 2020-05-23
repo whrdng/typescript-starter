@@ -1,3 +1,3 @@
-export function helloFromA(): string {
-  return "Hello from Project A";
+export function helloFromB(): string {
+  return "Hello from Project B";
 }
