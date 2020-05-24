@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "del-cli": "^3.0.1",
     "project_a": "^1.0.0"
   }
 }
