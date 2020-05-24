@@ -7,7 +7,8 @@
     "test": "jest",
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "compile": "tsc",
-    "watch": "tsc -w"
+    "watch": "tsc -w",
+    "clean": "del-cli ./{node_modules,dist}"
   },
   "keywords": [],
   "author": "",
