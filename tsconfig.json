@@ -1,7 +1,7 @@
 {
   "compileOnSave": true,
   "compilerOptions": {
-      "module": "ESNEXT",
+      "module": "commonjs",
       "declaration": true,
       "moduleResolution": "node",
       "noImplicitAny": true,
