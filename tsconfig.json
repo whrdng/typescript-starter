@@ -2,6 +2,7 @@
   "compileOnSave": true,
   "compilerOptions": {
       "module": "ESNEXT",
+      "declaration": true,
       "moduleResolution": "node",
       "noImplicitAny": true,
       "removeComments": true,
